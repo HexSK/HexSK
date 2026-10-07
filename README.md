@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hello there, I am Hex or Sebastian and I am a 17 year-old high-school student at SPŠE Prešov in Slovakia where I major in ICT and Network Technologies but I as an individual I specialize mostly in backend, IoT, Flutter/Dart and Python.
+# About Me:
+ Hello there, I am Hex or Sebastian and I am a 17 year-old high-school student at SPŠE Prešov in Slovakia where I major in ICT and Network Technologies but I as an individual usually work on my Home Server, Website Development and Mobile App Development
 
 
 ## 🌐 Socials:
