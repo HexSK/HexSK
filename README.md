@@ -1,6 +1,6 @@
 # Hey, I'm Hex 👋
 
-CS student from Bratislava 🇸🇰 building stuff across the web, and.. real life 
+CS student from Presov, Slovakia; building stuff across the web, and.. real life 
 
 ## 🔧 What I'm working on
 
