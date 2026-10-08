@@ -19,7 +19,6 @@ CS student from Presov, Slovakia; building stuff across the web, and.. real life
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![X-Plane 12](https://img.shields.io/badge/Boeing%20738-1793D1?style=for-the-badge&logo=boeing&logoColor=white)
 
 ## 🎸 Outside of code
 
